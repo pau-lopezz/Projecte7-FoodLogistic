@@ -1,6 +1,6 @@
 # projecte FoodLogistic
 
-## Modernització de la logística alimentària a través de la tecnologia
+## Modernització d'una empresa de logística alimentària a través de la tecnologia
 
 ![Logo del projecte FoodLogistic](pics/FoodLogisticLogo.png)
 

@@ -16,7 +16,7 @@ Formant grups de treball: [Escriu els noms dels membres del grup aquí]
 
 La seva infraestructura actual s'ha quedat petita i pateixen per la seguretat i la continuïtat del negoci. Han contactat amb la vostra empresa informàtica perquè els ajudeu a modernitzar-se. Us demanen actuar en tres àrees clau:
 
-Al següent enllaç pots trobar l'enunciat complet del projecte [accés al projecte FoodLogistic]()
+Al següent enllaç pots trobar l'enunciat complet del projecte: [Accés al projecte FoodLogistic]()
 
 ### Dades legals i corporatives de "FoodLogistic S.A."
 

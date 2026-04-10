@@ -6,7 +6,7 @@
 
 ## Autor
 
-Nom: [Escriu el teu nom aquí]
+Nom: Pau Lopez
 
 Formant grups de treball: [Escriu els noms dels membres del grup aquí]
 

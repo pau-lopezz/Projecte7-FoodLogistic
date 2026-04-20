@@ -2,7 +2,8 @@
 
 📝 **Introducció**
 
-En aquest projecte realitzem la planificació estratègica per al desplegament de la nova infraestructura tecnològica de **FoodLogístics S.A.** L'objectiu central és transformar una proposta tècnica en una solució operativa en un termini de **3 setmanes**, garantint la coordinació de l'equip i la mitigació de riscos mitjançant un cronograma professional.
+En aquest projecte realitzem la planificació estratègica per al desplegament de la nova infraestructura tecnològica de **FoodLogístics S.A.** 
+L'objectiu central és transformar una proposta tècnica en una solució operativa en un termini de **3 setmanes**, garantint la coordinació de l'equip i la mitigació de riscos mitjançant un cronograma professional.
 
 🏗️ **Fases del Desplegament**
 

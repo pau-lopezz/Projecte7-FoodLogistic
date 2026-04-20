@@ -1,24 +1,24 @@
-# 📅 T09 – Planificació FoodLogístics S.A.
+# 📊 T09: Estimació temporal de projecte (FoodLogístics S.A.)
 
-📝 Descripció
+📝 **Introducció**
 
-Aquest projecte defineix el full de ruta per al desplegament tecnològic de **FoodLogístics S.A.** Mitjançant un diagrama de Gantt professional, hem organitzat un calendari de 21 dies que sincronitza la infraestructura física, la seguretat de dades i el desenvolupament web. L'objectiu és garantir un llançament sense colls d'ampolla i amb una distribució de tasques equilibrada entre l'equip.
+En aquest projecte realitzem la planificació estratègica per al desplegament de la nova infraestructura tecnològica de **FoodLogístics S.A.** L'objectiu central és transformar una proposta tècnica en una solució operativa en un termini de **3 setmanes**, garantint la coordinació de l'equip i la mitigació de riscos mitjançant un cronograma professional.
 
-🚀 Cronograma de Desplegament
+🏗️ **Fases del Desplegament**
 
-📡 Etapa 1 – Arquitectura de Xarxa
-Disseny del mapa de subnets i posada en marxa dels servidors base per donar suport a la resta del projecte.
+* **Setmana 1: Fonaments i Infraestructura** – Disseny de xarxa, subnets i muntatge de servidors base.
+* **Setmana 2: Serveis Core i Seguretat** – Implementació de LDAP, serveis DNS/Web i protocols de backup.
+* **Setmana 3: Aplicació i Integració Cloud** – Desenvolupament web i hibridació final de l'entorn.
 
-🔑 Etapa 2 – Identitat i Serveis Core
-Configuració del cor del sistema: gestió d'usuaris centralitzada (LDAP) i serveis essencials de connectivitat.
+🔍 **Punts Clau de la Tasca**
 
-💻 Etapa 3 – Desenvolupament i Hibridació
-Fase final centrada en l'experiència d'usuari (Web) i el salt a l'entorn Cloud per garantir l'escalabilitat.
+* **Gestió del Temps:** Ús de **PlantUML** per a la creació d'un diagrama de Gantt detallat.
+* **Organització:** Definició de rols mitjançant una **matriu RACI**.
+* **Contingència:** Identificació de tasques crítiques i plans de resposta davant possibles retards.
 
-⚠️ Etapa 4 – Control de Riscos
-Avaluació de punts crítics i preparació de mecanismes de recuperació ràpida davant possibles retards.
+---
 
-📎 Accés a la tasca
+📎 **Accés al Projecte**
 
 Pots consultar el diagrama de Gantt, la justificació de les hores i l'anàlisi detallada a l'informe:
 

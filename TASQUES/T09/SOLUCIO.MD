@@ -54,7 +54,7 @@ project starts 2026-04-20
 @endgantt
 # Diagrama de Gantt
 
-!()[]
+!()[./img1.png]
 
 ## 3. Anàlisi Estructural i Dependències
 La planificació s'ha dividit en tres fases crítiques per evitar colls d'ampolla:
